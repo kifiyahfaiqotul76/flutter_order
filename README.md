@@ -1,4 +1,4 @@
-## Kelompok 6 Fluter order
+7## Kelompok 6 Fluter order
 Nama: 
 
 1. Register dan Login dapat membuat pengguna bisa membuat akun baru lalu login kemudian data akun hanya disimpan sementara dimemori(tidak menggunakan database).
@@ -7,3 +7,5 @@ Nama:
 3. Ringkasan transaksi menampilka daftar pesanan yang sudah dipilih. dan menampilkan total harga keseluruham.
 4. 
    
+
+jsjsjsn
