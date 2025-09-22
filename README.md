@@ -4,4 +4,5 @@ Nama: 1. Ajeng Maulida Puspita(362458302012)
       3. Lilis Thalisa(362458302020)
       4. Siti Faiqotul Kifiyah(362458302021)
 
-1. Penjelasan Fitur-fitur
+1. Register dan login membuat pengguna bisa mendapatkan akun baru lalu login data akun hanya disimpan sementara dimemori(tidak menggunakan database).
+2.
