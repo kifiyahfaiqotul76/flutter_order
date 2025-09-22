@@ -6,5 +6,5 @@ Nama: 1. Ajeng Maulida Puspita(362458302012)
 
 1. 
 2. Halaman menu menampilkan daftar makanan & minuman.
-   Dengan tombol + untuk menambah jumlah pesanan. tombol - untuk mengurangi jumlah pesanan, tombol Reset untuk menghapus semua pesanan, dan tombol Transaction untuk melihat ringkasan         pesanan.
+   Dengan tombol + untuk menambah jumlah pesanan. tombol - untuk mengurangi jumlah pesanan, tombol Reset untuk menghapus semua pesanan, dan tombol Transaction untuk melihat ringkasan           pesanan.
    
