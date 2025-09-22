@@ -16,3 +16,16 @@ Ada 3 halaman utama, yaitu:
 2. Login (Welcome Back) – login pakai username & password.
 3. Menu (Menus) – daftar makanan/minuman, bisa tambah/kurang pesanan.
 4. Ringkasan Transaksi yang menunjukan item yang dipesan, jumlah, harga, subtotal, dan total harga keseluruhan.
+
+## Fitur Utama
+1. Registrasi: data user disimpan sementara divariabel global(tidak pakai database).
+2. Login:validasi username & password,kalau berhasil masuk kehalaman menu.
+3. Navigasi: bisa pindah dari login(Registrasi)
+Menu Iteraktif:
+* Tombol + buat nambah jumlah pesanan.
+* Tombol + buat ngurangin pesanan(minimal 0)
+* Tombol - buat ngurangin pesanan(minimal 0)
+* Tombol Transaction buat pindah kehalaaman ringkasan Transaksi.
+
+Ringkasan Transaksi: tampilkan detail pesanan (nama item, jumlah, harga, subtotal, dan total harga).
+
